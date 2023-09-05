@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luqman Al Helmy</h1>
-<h3 align="center">A passionate Engineering Graduate from Indonesia</h3>
+<h3 align="center">A Lifelong Learner Engineering Graduate from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luqmanah&label=Profile%20views&color=0e75b6&style=flat" alt="luqmanah" /> </p>
 
 - 🌱 I’m currently learning **OpenGL, WebGL, Entity Framework**
+- Trying to consistently write clean, maintainable codes
+- The only thing i know is that i know nothing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
