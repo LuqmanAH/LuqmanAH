@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OpenGL, WebGL, Entity Framework**
 - Trying to consistently write clean, maintainable codes
-- The only thing i know is that i know nothing
+- Sometimes jumps from one topic to another (bear with me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
